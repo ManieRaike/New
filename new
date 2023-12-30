@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Новогоднее поздравление</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 100px;
+  }
+  .message {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+  }
+</style>
+</head>
+<body>
+<div class="message">
+  <h1>С новым годом зэми!</h1>
+  <p>Желаю тебе всех успехов в твоих начинаниях, учебе, валоранте и любимых делах. Никогда ни на кого не смотри и слушай только себя. Ты большая умница, и в новом году ты станешь еще сильнее. Будешь ходить по головам! Пусть этот год будет для тебя прорывом от маленького до самого важного и большого!!</p>
+</div>
+</body>
+</html>
